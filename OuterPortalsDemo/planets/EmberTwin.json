@@ -1,0 +1,35 @@
+{
+  "name": "CAVE_TWIN",
+  "Props": {
+      "details": [
+        {
+          "rename": "chert_portal",
+          "assetBundle": "assets/portal/portal_props",
+          "path": "Assets/Custom Prefabs/Portal.prefab",
+          "parentPath": "Sector_CaveTwin/Geometry_CaveTwin/BatchedGroup/BatchedMeshColliders_4",
+          "relativeToParent": true,
+          "position": {
+            "x": -0.277324,
+            "y": 156.8272,
+            "z": -3.327782
+          },
+          "rotation": {
+            "x": 1.810082,
+            "y": 183.7209,
+            "z": 0.3792409
+          },
+          "normal": {
+            "x": 0.004555163,
+            "y": 0.9994791,
+            "z": -0.03194895
+          },
+          "stretch": {
+            "x": 0.5,
+            "y": 0.75,
+            "z": 1
+          }
+        },
+      ]
+   }
+
+}

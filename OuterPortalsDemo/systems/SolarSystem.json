@@ -1,0 +1,30 @@
+{
+  "name": "SolarSystem",
+  "extras": {
+    "PortalConfigs": {
+      "Portals": [
+        {
+          "name": "library_entrance_portal",
+          "linkedPortal": "camp_portal",
+          "portalFarClipPlane": 50
+        },
+        {
+          "name":  "camp_portal",
+          "sector": "Sector_StartingCamp",
+          "linkedPortal":  "library_entrance_portal"
+        },
+        {
+          "name": "chert_portal",
+          "sector": "Sector_Lakebed"
+        },
+        {
+          "name":  "test_portal2",
+          "linkedPortal":  "test_portal",
+          "portalMaximumRecursion":  10,
+          "portalFarClipPlane": 50,
+          "portalMaxRenderDistance":  5
+        }
+      ]
+    }
+  }
+}

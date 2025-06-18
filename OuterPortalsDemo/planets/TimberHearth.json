@@ -1,0 +1,115 @@
+﻿{
+    "name": "TIMBER_HEARTH",
+  "Spawn": {
+    "playerSpawnPoints": [
+      {
+        "parentPath": "Sector_TH/Geometry_TH",
+        "isDefault": true,
+        "offset": {
+          "x": 0,
+          "y": 1,
+          "z": 0
+        },
+        "position": {
+          "x": -164.6422,
+          "y": 74.27511,
+          "z": 172.2539
+        },
+        "rotation": {
+          "x": 355.6521,
+          "y": 226.2895,
+          "z": 287.7768
+        },
+        "normal": {
+          "x": -0.6412902,
+          "y": 0.3044307,
+          "z": 0.7043215
+        },
+        "isRelativeToParent": true
+      }
+    ]
+  },
+    "Props": {
+      "details": [
+        {
+          "rename": "portal_library_entrance",
+          "assetBundle": "assets/portal_library/portallibraryentrance",
+          "path": "Assets/Custom Prefabs/PortalLibraryEntrance.prefab",
+          "parentPath": "Sector_TH/Geometry_TH",
+          "position": {
+            "x": -165.628,
+            "y": 76.2428,
+            "z": 170.421,
+          },
+          "rotation": {
+            "x": 72.5387,
+            "y": 328.4311,
+            "z": 9.068
+          },
+          "normal": {
+            "x": -0.6412905,
+            "y": 0.3044307,
+            "z": 0.7043216
+          },
+          "relativeToParent": true
+        },
+        {
+          "rename": "camp_portal",
+          "assetBundle": "assets/portal/portal_props",
+          "path": "Assets/Custom Prefabs/Portal.prefab",
+          "parentPath": "Sector_TH/Sector_Village/Geometry_Village/BatchedGroup/BatchedMeshColliders_5",
+          "relativeToParent": true,
+          "position": {
+            "x": 16.00847,
+            "y": -46.60122,
+            "z": 184.3995
+          },
+          "rotation": {
+            "x": 59.58629,
+            "y": 249.7168,
+            "z": 241.4633
+          },
+          "normal": {
+            "x": 0.0818916,
+            "y": -0.241842,
+            "z": 0.966854
+          },
+
+          "stretch": {
+            "x": 0.5,
+            "y": 0.75,
+            "z": 1
+          }
+        },
+        {
+          "rename": "test_portal2",
+          "assetBundle": "assets/portal/portal_props",
+          "path": "Assets/Custom Prefabs/Portal.prefab",
+          "parentPath": "Sector_TH/Geometry_TH/ControlledByProxy_Base/Terrain_TH_Surface_v2/TH_Surface",
+          "position": {
+            "x": -161.0586,
+            "y": 62.63815,
+            "z": 180.1365
+          },
+          "rotation": {
+            "x": 76.63805,
+            "y": 334.6364,
+            "z": 16.48569
+          },
+          "normal": {
+            "x": -0.6560551,
+            "y": 0.2216016,
+            "z": 0.7214464
+          },
+          "relativeToParent": true,
+
+          "stretch": {
+            "x": 0.5,
+            "y": 0.75,
+            "z": 1
+          }
+        },
+      ]
+    }
+    
+}
