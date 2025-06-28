@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3019857715
+CRC: 617839013
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -11,6 +11,6 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: portal/portal_props
     Info_2:
-      Name: portal_library/portallibraryentrance
+      Name: portal_library/portal_library
       Dependencies:
         Dependency_0: portal/portal_props

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1458392543
+CRC: 2838569593
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1b08442b943ffd7af0354909b6a1e1a0
+    Hash: cdc34095cf3bf593052331c035c17d95
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 544264344989c06b661a89ed895a8cc4
+    Hash: 0052d250633e1264ed45f440609d123a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -55,11 +55,13 @@ ClassTypes:
   Script: {fileID: 11500000, guid: aff12a3bc29fba3935b000271c9090d4, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4d37ab8d4d1e425918e8172c84cb8288, type: 3}
+- Class: 114
+  Script: {fileID: -1453389776, guid: 2334e3c5bd9e3bd4095b8a5f392e3ba7, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Custom Prefabs/PortalLibraryEntrance.prefab
-- Assets/Custom Prefabs 1/PortalLibraryEntrance.prefab
+- Assets/Custom Prefabs/Exhibit_Corby.prefab
 Dependencies:
-- C:/Users/joe30/source/repos/OuterPortals/Outer_Portals/assets/portal/portal_props
+- C:/Users/joe30/source/repos/OuterPortalsDemo/OuterPortalsDemo/assets/portal/portal_props

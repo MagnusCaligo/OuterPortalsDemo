@@ -7,24 +7,24 @@
         "isDefault": true,
         "offset": {
           "x": 0,
-          "y": 1,
+          "y": 1.0,
           "z": 0
         },
-        "position": {
-          "x": -164.6422,
-          "y": 74.27511,
-          "z": 172.2539
-        },
-        "rotation": {
-          "x": 355.6521,
-          "y": 226.2895,
-          "z": 287.7768
-        },
-        "normal": {
-          "x": -0.6412902,
-          "y": 0.3044307,
-          "z": 0.7043215
-        },
+          "position": {
+            "x": 65.83837,
+            "y": -115.7833,
+            "z": 211.871
+          },
+          "rotation": {
+            "x": 1.466,
+            "y": -70.886,
+            "z": 239.804
+          },
+          "normal": {
+            "x": 0.2279796,
+            "y": -0.4638339,
+            "z": 0.8560864
+          },
         "isRelativeToParent": true
       }
     ]
@@ -32,81 +32,114 @@
     "Props": {
       "details": [
         {
-          "rename": "portal_library_entrance",
-          "assetBundle": "assets/portal_library/portallibraryentrance",
-          "path": "Assets/Custom Prefabs/PortalLibraryEntrance.prefab",
+          "rename": "portal_library",
+          "assetBundle": "assets/portal_library/portal_library",
+          "path": "Assets/Custom Prefabs/PortalLibrary.prefab",
           "parentPath": "Sector_TH/Geometry_TH",
           "position": {
-            "x": -165.628,
-            "y": 76.2428,
-            "z": 170.421,
+            "x": 65.83837,
+            "y": -115.7833,
+            "z": 211.871
           },
           "rotation": {
-            "x": 72.5387,
-            "y": 328.4311,
-            "z": 9.068
+            "x": 1.466,
+            "y": -70.886,
+            "z": 239.804
           },
           "normal": {
-            "x": -0.6412905,
-            "y": 0.3044307,
-            "z": 0.7043216
+            "x": 0.2279796,
+            "y": -0.4638339,
+            "z": 0.8560864
           },
-          "relativeToParent": true
         },
         {
           "rename": "camp_portal",
           "assetBundle": "assets/portal/portal_props",
-          "path": "Assets/Custom Prefabs/Portal.prefab",
-          "parentPath": "Sector_TH/Sector_Village/Geometry_Village/BatchedGroup/BatchedMeshColliders_5",
-          "relativeToParent": true,
+          "path": "Assets/Custom Prefabs/Portal_Upwards.prefab",
+          "alignToRadial": true,
           "position": {
-            "x": 16.00847,
-            "y": -46.60122,
-            "z": 184.3995
+            "x": 22.31703,
+            "y": -45.7438,
+            "z": 185.3321
           },
           "rotation": {
-            "x": 59.58629,
-            "y": 249.7168,
-            "z": 241.4633
+            "x": 8.996511,
+            "y": 99.07186,
+            "z": 104.0746
           },
           "normal": {
-            "x": 0.0818916,
-            "y": -0.241842,
-            "z": 0.966854
+            "x": 0.1153877,
+            "y": -0.2401927,
+            "z": 0.9638432
           },
-
           "stretch": {
-            "x": 0.5,
-            "y": 0.75,
-            "z": 1
+            "x": 0.75,
+            "y": 1,
+            "z": 0.5
           }
         },
         {
-          "rename": "test_portal2",
+          "rename": "debug1",
           "assetBundle": "assets/portal/portal_props",
           "path": "Assets/Custom Prefabs/Portal.prefab",
-          "parentPath": "Sector_TH/Geometry_TH/ControlledByProxy_Base/Terrain_TH_Surface_v2/TH_Surface",
+          "alignToRadial": true,
           "position": {
-            "x": -161.0586,
-            "y": 62.63815,
-            "z": 180.1365
+            "x": -1.283256,
+            "y": 58.89777,
+            "z": 220.7876
           },
           "rotation": {
-            "x": 76.63805,
-            "y": 334.6364,
-            "z": 16.48569
+            "x": 8.62109,
+            "y": 86.64644,
+            "z": 75.07401
           },
           "normal": {
-            "x": -0.6560551,
-            "y": 0.2216016,
-            "z": 0.7214464
-          },
-          "relativeToParent": true,
+            "x": -0.01797995,
+            "y": 0.2546609,
+            "z": 0.9668632
+          }
 
-          "stretch": {
-            "x": 0.5,
-            "y": 0.75,
-            "z": 1
+        },
+        {
+          "rename": "debug2",
+          "assetBundle": "assets/portal/portal_props",
+          "path": "Assets/Custom Prefabs/Portal.prefab",
+          "alignToRadial": true,
+          "position": {
+            "x": -11.5051,
+            "y": 57.62496,
+            "z": 220.8812
+          },
+          "rotation": {
+            "x": 21.22336,
+            "y": 274.0204,
+            "z": 286.8434
+          },
+          "normal": {
+            "x": -0.03753081,
+            "y": 0.270105,
+            "z": 0.9620991
+          }
+        },
+        {
+          "rename": "debug3",
+          "assetBundle": "assets/portal/portal_props",
+          "path": "Assets/Custom Prefabs/Portal.prefab",
+          "alignToRadial": true,
+          "position": {
+            "x": -7.993795,
+            "y": 65.06501,
+            "z": 218.8344
+          },
+          "rotation": {
+            "x": 291.6817,
+            "y": 216.7387,
+            "z": 323.098
+          },
+          "normal": {
+            "x": -0.03669128,
+            "y": 0.2954356,
+            "z": 0.9546582
           }
         },
       ]

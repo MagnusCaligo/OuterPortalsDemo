@@ -6,24 +6,40 @@
         {
           "name": "library_entrance_portal",
           "linkedPortal": "camp_portal",
-          "portalFarClipPlane": 50
+          "portalFarClipPlane": 50000
         },
         {
           "name":  "camp_portal",
           "sector": "Sector_StartingCamp",
-          "linkedPortal":  "library_entrance_portal"
+          "linkedPortal":  "library_entrance_portal",
+          "portalFarClipPlane": 50
         },
         {
           "name": "chert_portal",
           "sector": "Sector_Lakebed"
         },
         {
-          "name":  "test_portal2",
-          "linkedPortal":  "test_portal",
-          "portalMaximumRecursion":  10,
-          "portalFarClipPlane": 50,
-          "portalMaxRenderDistance":  5
-        }
+          "name": "test_portal1",
+          "linkedPortal":  "chert_portal"
+        },
+        {
+          "name": "debug1",
+          "linkedPortal":  "debug2",
+          "portalMaxRecursion": 1,
+          "portalFarClipPlane":  50,
+        },
+        {
+          "name": "debug2",
+          "linkedPortal":  "debug1",
+          "portalMaxRecursion": 1,
+          "portalFarClipPlane":  50,
+        },
+        {
+          "name": "debug3",
+          "linkedPortal":  "debug1",
+          "portalMaxRecursion": 1,
+          "portalFarClipPlane":  50,
+        },
       ]
     }
   }

@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 119342635
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 004eff5aadfac842c88a0abd56d44a1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b2ccd485ca2d83608eae5e0818c85606
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbb2498122f7e23a2e87544333cb528f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4f7acb28de892d6c474b09ae2fa223e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b446aa63b809cb3da1921800cd416866, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a223d69493f03f4a8e6bda998c52d250, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c6ee9e4d5184455a9b6e8cef8a94cb6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ed8e5f4680aef3fe2d198924bac0650, type: 3}
+- Class: 114
+  Script: {fileID: -1453389776, guid: 2334e3c5bd9e3bd4095b8a5f392e3ba7, type: 3}
+- Class: 114
+  Script: {fileID: -67699756, guid: 2334e3c5bd9e3bd4095b8a5f392e3ba7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ccc440f5c7d96b96cdef56f58f726dc0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1beb2a46e0dd133c749d1f6530e10662, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8aa7b556a5fd542f0d4d803660cdf028, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 53fe1f971c08db1945e16add52db7b68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f913c288c393f80a7e923fc1c775f4fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25b7e56961bf1df33ed31b8c786ab1c3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2145ed3a866d4bd5a94d98ee05d0fa4f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aff12a3bc29fba3935b000271c9090d4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f2e3f7cc6baeb3499f9963353d7b458, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d37ab8d4d1e425918e8172c84cb8288, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3414f70f64f709feb1c744bbddff58ca, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom Prefabs/InfiniteTower.prefab
+- Assets/Custom Prefabs/InfiniteTowerPortalUpwards.mat
+- Assets/Custom Prefabs/PortalLibrary.prefab
+- Assets/Custom Prefabs/library_mural_room.prefab
+Dependencies:
+- C:/Users/joe30/source/repos/OuterPortalsDemo/OuterPortalsDemo/assets/portal/portal_props
