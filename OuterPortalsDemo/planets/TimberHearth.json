@@ -34,8 +34,9 @@
         {
           "rename": "portal_library",
           "assetBundle": "assets/portal_library/portal_library",
-          "path": "Assets/Custom Prefabs/PortalLibrary.prefab",
+          "path": "Assets/Custom Prefabs/LibraryPrefabs/PortalLibrary.prefab",
           "parentPath": "Sector_TH/Geometry_TH",
+          "keepLoaded":  true,
           "position": {
             "x": 65.83837,
             "y": -115.7833,
@@ -76,70 +77,6 @@
             "x": 0.75,
             "y": 1,
             "z": 0.5
-          }
-        },
-        {
-          "rename": "debug1",
-          "assetBundle": "assets/portal/portal_props",
-          "path": "Assets/Custom Prefabs/Portal.prefab",
-          "alignToRadial": true,
-          "position": {
-            "x": -1.283256,
-            "y": 58.89777,
-            "z": 220.7876
-          },
-          "rotation": {
-            "x": 8.62109,
-            "y": 86.64644,
-            "z": 75.07401
-          },
-          "normal": {
-            "x": -0.01797995,
-            "y": 0.2546609,
-            "z": 0.9668632
-          }
-
-        },
-        {
-          "rename": "debug2",
-          "assetBundle": "assets/portal/portal_props",
-          "path": "Assets/Custom Prefabs/Portal.prefab",
-          "alignToRadial": true,
-          "position": {
-            "x": -11.5051,
-            "y": 57.62496,
-            "z": 220.8812
-          },
-          "rotation": {
-            "x": 21.22336,
-            "y": 274.0204,
-            "z": 286.8434
-          },
-          "normal": {
-            "x": -0.03753081,
-            "y": 0.270105,
-            "z": 0.9620991
-          }
-        },
-        {
-          "rename": "debug3",
-          "assetBundle": "assets/portal/portal_props",
-          "path": "Assets/Custom Prefabs/Portal.prefab",
-          "alignToRadial": true,
-          "position": {
-            "x": -7.993795,
-            "y": 65.06501,
-            "z": 218.8344
-          },
-          "rotation": {
-            "x": 291.6817,
-            "y": 216.7387,
-            "z": 323.098
-          },
-          "normal": {
-            "x": -0.03669128,
-            "y": 0.2954356,
-            "z": 0.9546582
           }
         },
       ]

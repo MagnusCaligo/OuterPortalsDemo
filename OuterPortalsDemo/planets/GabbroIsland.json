@@ -1,0 +1,35 @@
+{
+  "name": "GabbroIsland",
+  "Props": {
+      "details": [
+        {
+          "rename": "gabbro_portal",
+          "assetBundle": "assets/portal/portal_props",
+          "path": "Assets/Custom Prefabs/Portal.prefab",
+          "parentPath": "Sector_GabbroIsland",
+          "relativeToParent": true,
+          "position": {
+            "x": -10.23574,
+            "y": -0.222373,
+            "z": 46.53821
+          },
+          "rotation": {
+            "x": 351.984,
+            "y": 112.25,
+            "z": 13.44989
+          },
+          "normal": {
+            "x": -0.03745475,
+            "y": 0.963071,
+            "z": 0.2666304
+          },
+          "stretch": {
+            "x": 1.2,
+            "y": 0.6,
+            "z": 2
+          }
+        },
+      ]
+   }
+
+}

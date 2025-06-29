@@ -1,0 +1,35 @@
+{
+  "name": "TIMBER_MOON",
+  "Props": {
+      "details": [
+        {
+          "rename": "esker_portal",
+          "assetBundle": "assets/portal/portal_props",
+          "path": "Assets/Custom Prefabs/Portal.prefab",
+          "parentPath": "Sector_THM/Geo_THM",
+          "relativeToParent": false,
+          "position": {
+            "x": -30.7232,
+            "y": 42.6994,
+            "z": -46.2381
+          },
+          "rotation": {
+            "x": 318.6471,
+            "y": 332.016,
+            "z": 37.43634
+          },
+          "normal": {
+            "x": -0.2906446,
+            "y": 0.5960414,
+            "z": -0.7485054
+          },
+          "stretch": {
+            "x": 1.2,
+            "y": 0.6,
+            "z": 2
+          }
+        },
+      ]
+   }
+
+}

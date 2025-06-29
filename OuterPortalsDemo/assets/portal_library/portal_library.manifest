@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 119342635
+CRC: 4250394517
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 004eff5aadfac842c88a0abd56d44a1f
+    Hash: e50ea22f157c30c03e32cc27ec32f076
   TypeTreeHash:
     serializedVersion: 2
     Hash: b2ccd485ca2d83608eae5e0818c85606
@@ -83,7 +83,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Custom Prefabs/InfiniteTower.prefab
 - Assets/Custom Prefabs/InfiniteTowerPortalUpwards.mat
-- Assets/Custom Prefabs/PortalLibrary.prefab
+- Assets/Custom Prefabs/LibraryPrefabs/PortalLibrary.prefab
 - Assets/Custom Prefabs/library_mural_room.prefab
 Dependencies:
 - C:/Users/joe30/source/repos/OuterPortalsDemo/OuterPortalsDemo/assets/portal/portal_props

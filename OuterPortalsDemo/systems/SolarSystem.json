@@ -19,26 +19,24 @@
           "sector": "Sector_Lakebed"
         },
         {
-          "name": "test_portal1",
-          "linkedPortal":  "chert_portal"
+          "name": "ChertPortalPictureFrame",
+          "linkedPortal": "chert_portal"
         },
         {
-          "name": "debug1",
-          "linkedPortal":  "debug2",
-          "portalMaxRecursion": 1,
-          "portalFarClipPlane":  50,
+          "name": "EskerPortalPictureFrame",
+          "linkedPortal": "esker_portal",
         },
         {
-          "name": "debug2",
-          "linkedPortal":  "debug1",
-          "portalMaxRecursion": 1,
-          "portalFarClipPlane":  50,
+          "name": "esker_portal",
+          "sector": "Sector_THM"
         },
         {
-          "name": "debug3",
-          "linkedPortal":  "debug1",
-          "portalMaxRecursion": 1,
-          "portalFarClipPlane":  50,
+          "name": "gabbro_portal",
+          "sector": "Sector_GabbroIsland"
+        },
+        {
+          "name": "GabbroPortalPictureFrame",
+          "linkedPortal": "gabbro_portal"
         },
       ]
     }
